@@ -15,11 +15,10 @@ Links
 Python for Finance (2nd ed.)
 ----------------------------
 
-**Mastering Data-Driven Finance**
-
-&copy; Dr. Yves J. Hilpisch | The Python Quants GmbH
-
+**Mastering Data-Driven Finance** &copy; Dr. Yves J. Hilpisch | The Python Quants GmbH
 <img src="http://hilpisch.com/images/py4fi_2nd_shadow.png" width="300px" align="left">
+
+Labs:
 
 - [Simulation and Stochastic Processes](py4fi_book/code/12_stochastics.ipynb)
 
