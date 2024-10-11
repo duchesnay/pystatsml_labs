@@ -21,6 +21,7 @@ Python for Finance (2nd ed.)
 Labs:
 
 - [Simulation and Stochastic Processes](py4fi_book/code/12_stochastics.ipynb)
+- [Trading Strategies (a): Simple Moving Averages](py4fi_book/code/15_trading_strategies_a.ipynb)
 
 
 
